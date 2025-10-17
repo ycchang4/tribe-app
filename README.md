@@ -29,7 +29,7 @@ A  friend-making app that matches people based on personality colors. Users shar
 
 ```bash
 # Clone and setup
-git clone https://github.com/yourusername/colormatch.git
+git clone https://github.com/ycchang4/tribe-app.git
 cd colormatch
 
 # Create virtual environment
