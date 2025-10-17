@@ -30,7 +30,7 @@ A  friend-making app that matches people based on personality colors. Users shar
 ```bash
 # Clone and setup
 git clone https://github.com/ycchang4/tribe-app.git
-cd colormatch
+cd tribe-app
 
 # Create virtual environment
 python -m venv venv
