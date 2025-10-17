@@ -1,7 +1,6 @@
-# tribe-app
-# 🎨 ColorMatch - Find Your Tribe
+# 🎨 TRIBE App - Find Your Tribe
 
-A dating app that matches people based on personality colors. Users share their life story, get assigned a TRIBE color via AI, and connect with compatible matches.
+A  friend-making app that matches people based on personality colors. Users share their life story, get assigned a TRIBE color via AI, and connect with compatible matches.
 
 > **Status:** In active development
 
